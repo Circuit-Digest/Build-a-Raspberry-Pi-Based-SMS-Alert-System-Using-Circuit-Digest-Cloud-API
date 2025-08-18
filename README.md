@@ -4,7 +4,7 @@ A modern, Wi-Fi-based SMS alert system that monitors temperature using a DHT11 s
 
 ## 🚀 Project Overview
 
-This project creates a temperature monitoring system using a Raspberry Pi that sends SMS alerts when temperature thresholds are exceeded. The system uses the Circuit Digest Cloud API to send messages over Wi-Fi, making it simple and cost-effective compared to traditional GSM-based solutions.
+This project creates a [temperature monitoring system](https://circuitdigest.com/microcontroller-projects/raspberry-pi-based-sms-alert-system-using-cloud-api) using a Raspberry Pi that sends SMS alerts when temperature thresholds are exceeded. The system uses the Circuit Digest Cloud API to send messages over Wi-Fi, making it simple and cost-effective compared to traditional GSM-based solutions.
 
 **Key Features:**
 - Real-time temperature monitoring with DHT11 sensor
